@@ -4,7 +4,7 @@ Creating my own spreadsheet editor (like excel and google sheets) to advance my 
 # Project Requirements
 - [ ] Written in C++
   - I have always been interested in learning C++, and it seems like this language is here to stay
-- [ ] Use good programming practicies
+- [ ] Use good programming practicies (including documentation)
     - This is paramount because I am trying to get better at coding
 - [ ] Want it to look modern
     - It should be nice to look at
